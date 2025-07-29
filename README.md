@@ -1,4 +1,4 @@
-git command 
+Git command 
 ---
 
 ## 1. **Getting Started with Git**
